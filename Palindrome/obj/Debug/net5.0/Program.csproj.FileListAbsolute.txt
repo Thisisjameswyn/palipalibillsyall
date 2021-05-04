@@ -1,0 +1,12 @@
+D:\Epicodus\Palindromes.Solution\palindrome\bin\Debug\net5.0\Program.deps.json
+D:\Epicodus\Palindromes.Solution\palindrome\bin\Debug\net5.0\Program.dll
+D:\Epicodus\Palindromes.Solution\palindrome\bin\Debug\net5.0\ref\Program.dll
+D:\Epicodus\Palindromes.Solution\palindrome\bin\Debug\net5.0\Program.pdb
+D:\Epicodus\Palindromes.Solution\palindrome\obj\Debug\net5.0\Program.csprojAssemblyReference.cache
+D:\Epicodus\Palindromes.Solution\palindrome\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Epicodus\Palindromes.Solution\palindrome\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+D:\Epicodus\Palindromes.Solution\palindrome\obj\Debug\net5.0\Program.AssemblyInfo.cs
+D:\Epicodus\Palindromes.Solution\palindrome\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+D:\Epicodus\Palindromes.Solution\palindrome\obj\Debug\net5.0\Program.dll
+D:\Epicodus\Palindromes.Solution\palindrome\obj\Debug\net5.0\ref\Program.dll
+D:\Epicodus\Palindromes.Solution\palindrome\obj\Debug\net5.0\Program.pdb
